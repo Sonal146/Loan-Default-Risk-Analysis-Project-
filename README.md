@@ -3,6 +3,10 @@
 
 A deep exploratory dive into the financial behavior of borrowers to uncover *who defaults and why*. This project leverages rich customer-level data to answer *high-stakes business questions* with insights that could power real-world lending strategies.
 
+![Image](https://github.com/user-attachments/assets/f6846501-3ae6-4b5d-afcd-a1fac3738d19)
+
+
+
 🔗 **Project Repository:** [Loan Default Risk Analysis GitHub Repo](https://github.com/Sonal146/Loan-Default-Risk-Analysis-Project-)
 
 ---
